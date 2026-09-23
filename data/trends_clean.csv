@@ -1,0 +1,81 @@
+post_id,title,category,score,num_comments,author,collected_at
+49814947,Claude Code reads AGENTS.md only when telemetry is on,technology,278,125,pszypowicz,2026-09-23 20:25:38
+49815466,I Don't Want the Details,technology,92,63,mooreds,2026-09-23 20:25:38
+49815982,Stripe built its internal AI platform,technology,19,3,ltononro,2026-09-23 20:25:38
+49815127,OpenAI is enlisting an influencer army to make it look 'good for the world',technology,162,127,cdrnsf,2026-09-23 20:25:38
+49815381,Samsung accidentally freezes its smart fridges with a software update,technology,118,107,Markoff,2026-09-23 20:25:38
+49815526,The Price of Intelligence Is Falling Rapidly,technology,34,22,gotmedium,2026-09-23 20:25:38
+49801324,OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005,technology,702,411,sohkamyung,2026-09-23 20:25:38
+49816176,Comma's hands-off driving tech under investigation after 2 fatal crashes,technology,18,9,Brajeshwar,2026-09-23 20:25:38
+49816658,"Montreal adopts bylaw banning insults against police, municipal employees",technology,13,5,MC995,2026-09-23 20:25:38
+49805278,'We hacked the FBI:' Hackers say they have data on all FBI employees,technology,715,519,spenvo,2026-09-23 20:25:38
+49811429,Data-only attacks are easier than you think (2024),technology,79,31,segfaultbuserr,2026-09-23 20:25:38
+49815095,Show HN: RxFilm Studio–Create and edit your product videos with AI agent,technology,16,7,zilue,2026-09-23 20:25:38
+49806430,Pentagon says overreliance on AI contributed to missile strike on Iran school,technology,770,395,devonnull,2026-09-23 20:25:38
+49812023,How often do you think about the 1893 World's Fair?,technology,42,19,bryanrasmussen,2026-09-23 20:25:38
+49802161,OpenAI is well positioned to fast-follow Jev,technology,305,213,JohnBerryman,2026-09-23 20:25:38
+49794844,"Delta: Highly available, strongly consistent storage using chain replication (2022)",technology,29,2,grep_it,2026-09-23 20:25:38
+49800566,Show HN: Training a model to identify AI web content from structure alone,technology,62,16,jochenmadler,2026-09-23 20:25:38
+49803085,Writing Rust code that's fast by asking agents to make the code faster,technology,105,54,mooreds,2026-09-23 20:25:38
+49795260,Did OpenAI solve the wrong Navier-Stokes problem?,technology,114,63,tomjakubowski,2026-09-23 20:25:38
+49794193,Solitaire Alone Together,technology,147,29,eieio,2026-09-23 20:25:38
+49816420,China's ByteDance gained access to over 2k Nvidia B200 chips through Norway,technology,8,0,sbulaev,2026-09-23 20:25:38
+49803683,"Show HN: AI·rete·RAG – a Rete rule engine decides, RAG explains why",technology,40,4,ZaharaHussain,2026-09-23 20:25:38
+49813224,ShinyHunters claims FBI hack: 'This is NOT financially motivated',technology,15,0,joebuckwilliams,2026-09-23 20:25:38
+49792342,Transformers Explained Visually,technology,621,88,aray07,2026-09-23 20:25:38
+49811065,Transit rewards,worldnews,200,247,raybb,2026-09-23 20:25:40
+49808109,The UV index is not the warm sensation of sunlight on bare skin,worldnews,88,71,evakhoury,2026-09-23 20:25:40
+49813604,"My German Exit Tax: 13 Tax Advisors, 1.5 Years, 18.7k€ to leave the country",worldnews,26,14,olieidel,2026-09-23 20:25:40
+49794736,Looking forward to Git 2.56 – and 3.0,worldnews,193,114,chmaynard,2026-09-23 20:25:40
+49810083,"I'm sick of Claudisms, & what will happen next in AI-boosted software dev",worldnews,11,4,rizsyed1,2026-09-23 20:25:40
+49791647,Frontier AI on Your Own Hardware,worldnews,181,102,pretext,2026-09-23 20:25:40
+49809345,U.S. Government seizes 54-pound Martian meteorite sold at auction last year,worldnews,22,8,bookofjoe,2026-09-23 20:25:40
+49781693,Why Backprop Goes Backward (2018),worldnews,69,10,andsoitis,2026-09-23 20:25:40
+49778670,Software sandboxing: The basics (2025),worldnews,116,24,mococa,2026-09-23 20:25:40
+49798800,How software gets permission today,worldnews,9,0,infomiho,2026-09-23 20:25:40
+49786210,The End Of Upward Mobility – AI is coming for the meritocracy,worldnews,63,44,meep_meep_meep,2026-09-23 20:25:40
+49766966,Brood War Bench,worldnews,346,156,benswerd,2026-09-23 20:25:40
+49777913,Trying the software factory pattern,worldnews,89,47,gpi,2026-09-23 20:25:40
+49806376,Explaining to business people why building software is still hard,worldnews,62,57,fagnerbrack,2026-09-23 20:25:40
+49749724,Warez: The Infrastructure and Aesthetics of Piracy (2021),worldnews,220,120,succinct_ideas,2026-09-23 20:25:40
+49752614,"Warren Buffett Steps Down as Berkshire Chairman, Names Son to Replace Him",worldnews,323,219,saimiam,2026-09-23 20:25:40
+49797105,The secret Cold War bioweapons test that exposed millions in the Bay Area,worldnews,21,4,bcaulfield,2026-09-23 20:25:40
+49762687,Science Is Open Software,worldnews,161,74,jegp,2026-09-23 20:25:40
+49743527,Towards Self-Driving Codebases,worldnews,121,99,wilhelmklopp,2026-09-23 20:25:40
+49807794,Kremlin-backed forgery scheme moved $6.9B through global banks,worldnews,11,2,tagyro,2026-09-23 20:25:40
+49754687,Second Circuit allows government to search electronic devices at the border,worldnews,130,79,HotGarbage,2026-09-23 20:25:40
+49777121,Video games inspire great UX (2019),sports,43,3,andsoitis,2026-09-23 20:25:42
+49778022,Resident Evil 4 (GameCube) – complete byte-identical decompilation to C/C++,sports,138,99,metrofun,2026-09-23 20:25:42
+49776523,Show HN: A competition for small neural networks that play strategy games,sports,111,41,codetiger,2026-09-23 20:25:42
+49789356,Show HN: Foremerge – Catch intent conflicts between parallel coding agents,sports,45,17,naw103,2026-09-23 20:25:42
+49755378,A custom virtual machine for the Stars 4X game,sports,109,38,ibobev,2026-09-23 20:25:42
+49799083,"9 Ads per Minute: FIFA Cup 26 – ""the price of the beautiful game""",sports,178,216,KellyCriterion,2026-09-23 20:25:42
+49791978,Microsoft patents system to freeze games and inject ads during downtimes,sports,43,18,ricobecks,2026-09-23 20:25:42
+49781194,"The addiction of online sports gambling: ""Like crack in the '80s""",sports,28,23,dzonga,2026-09-23 20:25:42
+49780807,"30 years after Civ2, Eivind IV built his own 4X game (Genesis)",sports,6,3,JohnHammersley,2026-09-23 20:25:42
+49788220,A study of sequence weighting at scale,science,14,1,pranitha_m,2026-09-23 20:25:44
+49775082,The Millennium Problems for Biology,science,163,119,artninja1988,2026-09-23 20:25:44
+49791939,NASA’s Mars Sample Return mission is dead,science,447,384,Muhammad523,2026-09-23 20:25:44
+49746626,How SpaceX streamlined the Raptor engine,science,246,125,JumpCrisscross,2026-09-23 20:25:44
+49803684,Study Sessions Should Be Short and Frequent as Opposed to Long and Sparse,science,18,2,gmays,2026-09-23 20:25:44
+49763379,NASA-IBM Lunar Foundation open-Source Geospatial AI Model,science,53,6,noobplus,2026-09-23 20:25:44
+49798451,"Study: Young users (9 to 18Y) ditch Google for AI, with unknown consequences",science,66,119,giuliomagnifico,2026-09-23 20:25:44
+49753878,An empirical study of harness design for coding agents,science,225,59,wek,2026-09-23 20:25:44
+49742714,Whoisinspace.com/,science,137,90,Egg-Man,2026-09-23 20:25:44
+49735979,"Jev Ultrafast: A browser agent with a dynamic, indexed action space",science,92,14,rahimnathwani,2026-09-23 20:25:44
+49815168,"Show HN: Ive Sent It – online courier for files, with signed proof of delivery",entertainment,14,11,ivesentit,2026-09-23 20:25:46
+49800513,Show HN: Npunlock – Run custom C kernels for Intel NPUs,entertainment,50,12,hsfzxjy,2026-09-23 20:25:46
+49800574,"Show HN: JevBench, a reproducible benchmark for typed decision models",entertainment,124,34,florianstandhar,2026-09-23 20:25:46
+49801329,Show HN: Drop – A rootless Linux sandbox with gVisor support,entertainment,177,59,mixedbit,2026-09-23 20:25:46
+49813253,Ju Ju Tsu A book about jj / jujutstu,entertainment,15,5,fanf2,2026-09-23 20:25:46
+49802789,Show HN: InstinctFlash – High-Performance Serving Runtime for Robotics Models,entertainment,24,3,guanming0717,2026-09-23 20:25:46
+49783133,Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM,entertainment,276,75,volotat,2026-09-23 20:25:46
+49802776,"Show HN: OpenMCP – An open, code-first fork of the Model Context Protocol",entertainment,8,1,enclawed,2026-09-23 20:25:46
+49797139,Apple Music to open concert venue in Battersea Power Station,entertainment,66,97,dabinat,2026-09-23 20:25:46
+49804217,Show HN: graf (1000x faster graphify in Rust),entertainment,10,3,ripped_britches,2026-09-23 20:25:46
+49777539,Show HN: Radius – A Meetup.com Alternative,entertainment,164,81,radius89,2026-09-23 20:25:46
+49804831,German court rules Meta liable for scam ads on Facebook and Instagram,entertainment,50,8,buzer,2026-09-23 20:25:46
+49786419,Show HN: Lossless-memory – a personal AI memory that never summarizes,entertainment,66,29,aru-labs,2026-09-23 20:25:46
+49765354,Show HN: Sigabrt.dev – cronjob monitor with an SSH TUI,entertainment,81,35,4815162342,2026-09-23 20:25:46
+49789066,"Show HN: Vellum, the best diagram editor you'll ever use",entertainment,24,15,JoshJamesAnthon,2026-09-23 20:25:46
+49780849,Show HN: jevals – replacing LLM judges with typed Jev decisions,entertainment,46,6,gbayomi,2026-09-23 20:25:46
